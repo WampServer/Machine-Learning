@@ -10,7 +10,6 @@ Perceptron is the simplest possible Neural Network. A neuron takes inputs, does 
 
 Each input is multiplied by a weight and all the weighted inputs are added together with a bias.
 ###  x1​×w1​ + x2​×w2​ + x3×w3​ + b
-
 The sum is passed through an activation function
 ### Y = f(x1​×w1​+x2​×w2​+x3×w3​+b)
 
