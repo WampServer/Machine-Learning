@@ -10,5 +10,8 @@ $b = 1;
 $sum = $x[0] * $w[0] + $x[1] * $w[1] + $b;
 
 // ReLU Activation Function
-if ($sum > 0) {echo $sum;} else {echo 0;}
-?>
+if ($sum > 0) {
+    echo $sum;
+} else {
+    echo 0;
+}

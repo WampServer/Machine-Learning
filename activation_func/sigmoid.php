@@ -1,7 +1,7 @@
 <?php
+
 // Activate Function
-function sigmoid($sum){
+function sigmoid($sum)
+{
     return 1 / (1 + exp(-$sum));
 }
-
-?>

@@ -1,7 +1,7 @@
 <?php
-// Activate Function
-function linear($sum) {
-  return $sum;
-}
 
-?>
+// Activate Function
+function linear($sum)
+{
+    return $sum;
+}
